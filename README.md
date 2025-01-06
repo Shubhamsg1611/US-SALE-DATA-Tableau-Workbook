@@ -1,4 +1,5 @@
 # US-SALE-DATA-Tableau-Workbook
+![](https://www.datascienceportfol.io/static/profile_pics/pr25_37D2F1D86C77E4F615F0.jpg)
 
 ## Overview: 
 This Tableau workbook analyzes sales performance in the US, with data sources focused on sales transactions, customer information, and product details. The workbook is designed to provide insights into total sales, profit, and other key metrics across different regions, product categories, and customer segments.
